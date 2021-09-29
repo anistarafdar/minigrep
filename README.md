@@ -9,8 +9,8 @@ Compile and run as so
 minigrep QUERY FILENAME
 ```
 
--`QUERY` being the pattern to search for
--`FILENAME` being the source to search in
+- `QUERY` being the pattern to search for
+- `FILENAME` being the source to search in
 
 ## Further information
 Check out [ripgrep](https://github.com/BurntSushi/ripgrep) for a more robust pattern searcher written in Rust, as mentioned in the book. 
