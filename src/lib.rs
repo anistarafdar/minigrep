@@ -59,7 +59,6 @@ pub fn search_case_insensitive<'a>(
     query: &str, 
     contents: &'a str
 ) -> Vec<&'a str> {
-    //let query = query.to_lowercase();
 
     contents
         .lines()
